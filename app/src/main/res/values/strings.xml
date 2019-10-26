@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">goodkotlin</string>
+    <string name="title_home">Network</string>
+    <string name="title_dashboard">Battery</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
